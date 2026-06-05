@@ -1,4 +1,2 @@
 
-function hello() {
-	    alert("Hello from Ashish's website!");
-}
+console.log("Ashish DevOps Portfolio Loaded");
